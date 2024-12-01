@@ -56,6 +56,8 @@ Chronosimulation combines elements of both theoretical and experimental computer
 [GPT Simulatiors](https://github.com/sourceduty/GPT_Simulators)
 <br>
 [Quantum Biology Simulator](https://github.com/sourceduty/Quantum_Biology_Simulator)
+<br>
+[Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
