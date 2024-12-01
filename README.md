@@ -35,6 +35,8 @@ Chronosimulation is new in its ability to seamlessly integrate real-time data st
 [GPT Simulatiors](https://github.com/sourceduty/GPT_Simulators)
 <br>
 [Quantum Biology Simulator](https://github.com/sourceduty/Quantum_Biology_Simulator)
+<br>
+[Live Simulation](https://github.com/sourceduty/Live_Simulation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
