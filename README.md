@@ -7,6 +7,12 @@
 
 This custom GPT excels in bridging the gap between conceptual design and technical implementation. It empowers users to iteratively refine their models, ensuring accuracy and consistency while adapting to changes in input data or environmental factors. Whether simulating the impacts of policy changes over decades or modeling short-term system fluctuations, Chronosimulation offers tools to visualize, analyze, and perfect simulations in real-time. Its ultimate goal is to help users build scalable and innovative solutions that meet complex challenges, enabling them to derive meaningful insights from their models and translate those insights into impactful actions.
 
+```
+Create a chronosimulation model.
+Create an example chronosimulation model.
+Print a cheat sheet for this custom GPT.
+```
+
 #
 ### Chronosims
 
