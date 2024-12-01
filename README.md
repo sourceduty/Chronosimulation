@@ -13,6 +13,10 @@ This custom GPT excels in bridging the gap between conceptual design and technic
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Simulation Dev](https://github.com/sourceduty/Simulation_Dev)
+<br>
+[GPT Simulatiors](https://github.com/sourceduty/GPT_Simulators)
+<br>
+[Quantum Biology Simulator](https://github.com/sourceduty/Quantum_Biology_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
